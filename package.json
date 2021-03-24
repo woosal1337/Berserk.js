@@ -1,0 +1,23 @@
+{
+  "name": "Berserk.js",
+  "version": "1.0.0",
+  "description": "![Update](https://badges.pufler.dev/updated/woosal1337/Berserk) ![Visits](https://badges.pufler.dev/visits/woosal1337/Berserk) ![Created](https://badges.pufler.dev/created/woosal1337/Berserk) ![Commits Vusal](https://badges.pufler.dev/commits/monthly/woosal1337)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woosal1337/Berserk.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woosal1337/Berserk.js/issues"
+  },
+  "homepage": "https://github.com/woosal1337/Berserk.js#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
